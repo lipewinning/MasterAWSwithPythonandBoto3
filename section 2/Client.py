@@ -8,7 +8,7 @@ for bucket in s3.buckets.all():
 
 client = boto3.client('s3')
 
-#s3.create_bucket(Bucket='com.felipe.popuxo.out',
+#s3.create_bucket(Bucket='com.felipe.popuxo.123',
 #                 CreateBucketConfiguration=location)
 
 
